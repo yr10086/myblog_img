@@ -1,0 +1,7 @@
+﻿NHK G,vjms://122.155.180.8:8500:3502/live/cid=309
+NHK E,vjms://122.155.180.8:8500:3502/live/cid=318
+日テレ NIPPON TV,vjms://122.155.180.8:8500:3502/live/cid=312
+富士电视台 FUJI TV,vjms://122.155.180.8:8500:3502/live/cid=316
+东京电视台 TV TOKYO,vjms://122.155.180.8:8500:3502/live/cid=315
+东京放送 TBS,vjms://122.155.180.8:8500:3502/live/cid=314
+TOKYO MX1,vjms://122.155.180.8:8500:3502/live/cid=311
